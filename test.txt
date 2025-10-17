@@ -1,0 +1,5 @@
+%%writefile test.txt
+Hello this is a test file
+This is first line
+this is second lineFour ON FourthFour ON Fourth11
+Four ON Fourth11
